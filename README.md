@@ -1,4 +1,4 @@
-# hoggame
+# Hogwarts Game
 Jogo inspirado no universo de Hogwarts
 
 Esse é um projeto criado por mim para experimentar a programação de jogos em canvas.
