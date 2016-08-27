@@ -1,0 +1,646 @@
+{ "map" : 
+  { "name" : "Grande Salão",
+    "preloadImg" : "img/hogwarts.png",
+    "content" : "fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff#fffffffff,001000fff,001000fff,001000fff,001ffffff,001ffffff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001000fff,001ffffff,001ffffff,001000fff,001000fff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001006fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001007fff1,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001002fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001005fff,001004fff1,001004fff1,001004fff1,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001005fff,001004fff1,001004fff1,001004fff1,001005fff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,001ffffff,fff000fff#fffffffff,001000fff,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,001004fff1,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000003fff1,000ffffff,000001fff,000ffffff,000003fff1,000ffffff,000003fff1,000ffffff,000001fff,000ffffff,000003fff1,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000003fff1,000ffffff,000001fff,000ffffff,000003fff1,000ffffff,000003fff1,000ffffff,000001fff,000ffffff,000003fff1,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff",
+    "objects" : [ 
+      {
+        "hex" : "008",
+        "x" : 224,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 284,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 352,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 416,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 480,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 544,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 608,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 672,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 736,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 800,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 864,
+        "y" : 144,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      },
+        
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 416,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 480,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 544,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 608,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 672,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 736,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 800,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 128,
+        "y" : 864,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+        
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 416,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 480,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 544,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 608,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 672,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 736,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 800,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 192,
+        "y" : 864,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 416,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 480,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 544,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 608,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 672,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 736,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 800,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 320,
+        "y" : 864,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 416,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 480,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 544,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 608,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 672,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 736,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 800,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 384,
+        "y" : 864,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 416,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 480,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 544,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 608,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 672,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 736,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 800,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 704,
+        "y" : 864,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 416,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 480,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 544,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 608,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 672,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 736,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 800,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 768,
+        "y" : 864,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 416,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 480,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 544,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 608,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 672,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 736,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 800,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 896,
+        "y" : 864,
+        "direction" : 90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 416,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 480,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 544,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 608,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 672,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 736,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 800,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "008",
+        "x" : 960,
+        "y" : 864,
+        "direction" : -90,
+        "format" : "rect",
+        "penetrable" : true
+      },
+      {
+        "hex" : "00a",
+        "x" : 144,
+        "y" : 32,
+        "width" : 64,
+        "height" : 12,
+        "direction" : 0,
+        "format" : "rect",
+        "penetrable" : false
+      },
+      {
+        "hex" : "00a",
+        "x" : 944,
+        "y" : 32,
+        "width" : 64,
+        "height" : 12,
+        "direction" : 0,
+        "format" : "rect",
+        "penetrable" : false
+      },
+      {
+        "hex" : "00c",
+        "x" : 544,
+        "y" : 1024,
+        "width" : 160,
+        "height" : 32,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true
+      }
+    ]
+  }
+}
