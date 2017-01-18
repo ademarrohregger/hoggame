@@ -1,0 +1,21 @@
+{ "map" : 
+  { "name" : "Armário de vassouras",
+    "preloadImg" : "img/hogwarts.png",
+    "posx" : 0,
+    "posy" : 1248,
+    "content" : "fffffffff,fffffffff,fffffffff,fffffffff,fffffffff#fffffffff,000000fff,000000fff,000000fff,000000fff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,fff000fff,fff000fff,fff000fff,fff000fff,fff000fff",
+    "objects" : [
+      {
+        "hex" : "00c",
+        "x" : 0,
+        "y" : 112,
+        "width" : 1,
+        "height" : 64,
+        "direction" : 0,
+        "format" : "rect",
+        "penetrable" : true,
+        "target" : "entrencehall"
+      }
+    ]
+  }
+}
