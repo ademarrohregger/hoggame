@@ -1,0 +1,21 @@
+{ "map" : 
+  { "name" : "Sala 1",
+    "preloadImg" : "img/hogwarts.png",
+    "posx" : 800,
+    "posy" : -288,
+    "content" : "fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff,fffffffff#fffffffff,000000fff,000000fff,000000fff,000000fff,000000fff,000000fff,000000fff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,000000fff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,000ffffff,fff000fff#fffffffff,fff000fff,fff000fff,fff000fff,fffffffff,fffffffff,fff000fff,fff000fff,fff000fff",
+    "objects" : [
+      {
+        "hex" : "00c",
+        "x" : 144,
+        "y" : 346,
+        "width" : 64,
+        "height" : 1,
+        "direction" : 180,
+        "format" : "rect",
+        "penetrable" : true,
+        "target" : "greathall"
+      }
+    ]
+  }
+}
